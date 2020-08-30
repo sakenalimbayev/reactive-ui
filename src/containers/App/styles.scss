@@ -1,0 +1,21 @@
+header {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  height: 80px;
+
+  .logo {
+    height: 60px;
+    padding: 10px;
+  }
+
+  h2 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 800;
+    color: purple;
+  }
+}
+
+main {
+  display: flex;
+}

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71923fb5-d850-488f-a2cf-d37eaec06801" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/AllShipments/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/AllShipments/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/App/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/App/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/components/SideMenu/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/components/SideMenu/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gisfSX3dbWCAVui5bcJKTgTuhj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\Work\reactive-ui\node_modules\prettier" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\reactive-ui\src\assets\images" />
+      <recent name="D:\Work\reactive-ui\src" />
+      <recent name="D:\Work\reactive-ui\src\shared\containers\App" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71923fb5-d850-488f-a2cf-d37eaec06801" name="Default Changelist" comment="" />
+      <created>1598608849723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598608849723</updated>
+      <workItem from="1598608850788" duration="4015000" />
+      <workItem from="1598758210123" duration="14571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="181" key="#Plugins" timestamp="1598615519738">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="181" key="#Plugins/62.0.1858.1080@62.0.1858.1080" timestamp="1598615519738" />
+    <state x="742" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598766331459">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="742" y="330" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1598766331459" />
+    <state x="154" y="92" width="1674" height="896" key="DiffContextDialog" timestamp="1598614651040">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="92" width="1674" height="896" key="DiffContextDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1598614651040" />
+    <state x="542" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1598615805308">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="542" y="0" key="FileDocumentManager.FileCacheConflict/62.0.1858.1080@62.0.1858.1080" timestamp="1598615805308" />
+    <state width="1837" height="288" key="GridCell.Tab.0.bottom" timestamp="1598765942907">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="288" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1598765942907" />
+    <state width="1837" height="288" key="GridCell.Tab.0.center" timestamp="1598765942907">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="288" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1598765942907" />
+    <state width="1837" height="288" key="GridCell.Tab.0.left" timestamp="1598765942906">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="288" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1598765942906" />
+    <state width="1837" height="288" key="GridCell.Tab.0.right" timestamp="1598765942907">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="288" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1598765942907" />
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1598615484787">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="654" y="235" width="672" height="678" key="search.everywhere.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1598615484787" />
+  </component>
+</project>
